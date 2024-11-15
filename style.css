@@ -1,0 +1,51 @@
+.container {
+  background-color: rgb(90, 90, 90);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.canvas {
+  background-color: antiquewhite;
+  width: 800px;
+  height: 800px;
+}
+.box1 {
+  display: flex;
+}
+
+.bar {
+  background-color: red;
+  width: 99%;
+  height: 100px;
+  margin: 20px;
+}
+.box2 {
+  display: flex;
+
+  justify-content: center;
+  align-items: center;
+  height: 25vh;
+  border-style: solid;
+}
+
+.box3 {
+  display: flex;
+
+  justify-content: center;
+  align-items: center;
+  height: 25vh;
+  border-style: solid;
+}
+
+.btn-click {
+  padding: 50px;
+}
+
+.box4 {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  height: 10vh;
+  border-style: solid;
+}
